@@ -1,0 +1,32 @@
+* {
+    background-color: #f7dddd;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.home-header {
+     margin: 0 auto;
+   text-align: center; 
+    background-color:antiquewhite; 
+   padding: 20px;
+}
+
+.recipes-list {
+   margin: 10 auto;
+   text-align: center;
+   list-style: none;
+   display: block;
+    background-color: antiquewhite; 
+   padding: 10px;
+}
+
+button {
+    font-size: 20px;
+}
+
+div {
+     background-color: antiquewhite; 
+}
+
+span {
+    background-color: yellow;
+}
